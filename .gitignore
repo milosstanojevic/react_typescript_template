@@ -1,0 +1,8 @@
+node_modules
+dist/*
+
+# PhpStorm
+.idea
+
+# VSCode
+.vscode
